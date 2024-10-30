@@ -2,7 +2,7 @@
 ## Version 0.1 by oditynet 
 
 
-## [!!!] EDIT line 312,315,318,321  - create 1 or 2 interface
+## [!!!] EDIT line 328,331,334,337  - create 1 or 2 interface
 ## [!!!] EDIT MODE: 1,2,3,4 ^? 
 MODE=4 #1=eth,2=vlan1,3=bond,4=bond+vlan1
 
